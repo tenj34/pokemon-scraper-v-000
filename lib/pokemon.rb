@@ -9,4 +9,5 @@ class Pokemon
     @db = db
   end
 
+
 end
